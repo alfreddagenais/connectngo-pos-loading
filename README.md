@@ -1,0 +1,1 @@
+# connectngo-pos-loading
